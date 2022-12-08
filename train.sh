@@ -33,7 +33,7 @@ $CMD_TRAIN \
 --resample 0.0 \
 --background_frequency 0.0 \
 --alsologtostderr \
---train 1 \
+--train 0 \
 --use_spec_augment 1 \
 --time_masks_number 2 \
 --time_mask_max_size 25 \
